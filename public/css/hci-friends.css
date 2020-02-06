@@ -1,3 +1,14 @@
+.friend-name{
+	color: #CC00AA
+	font-weight: bold;
+}
+
+
+.friend-width{
+	max-width: 300px;
+}
+
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
